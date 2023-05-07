@@ -1,0 +1,143 @@
+{
+    "capital": "5.13 Cr",
+    "pndl": -43.66,
+    "percent": "-0.009%",
+    "val": "-43.66 L(43)",
+    "data": [
+      {
+        "name": "GSA BNF Directional",
+        "status": "Live-Entered",
+        "rate": "2,502",
+        "percent": "1.00 %",
+        "data": [
+          {
+          "id": 1,
+          "name":"1.OPTIDX_BANKNIFTY_04MAY2023_CE_45000",
+          "qty":"0.00",
+          "ltp":"2.30",
+          "val":"0",
+          "pnl":-22
+        },
+        {
+          "id": 2,
+          "name":"2.OPTIDX_BANKNIFTY_04MAY2023_PE_45000",
+          "qty":"0.00",
+          "ltp":"3.10",
+          "val":"360",
+          "pnl":-7
+        },
+        {
+          "id": 3,
+          "name":"3.OPTIDX_BANKNIFTY_04MAY2023_CE_45000",
+          "qty":"0.00",
+          "ltp":"301.45",
+          "val":"0",
+          "pnl":-1397
+        },
+        {
+          "id": 4,
+          "name":"4.OPTIDX_BANKNIFTY_04MAY2023_PE_45000",
+          "qty":"0.00",
+          "ltp":"241.45",
+          "val":"-12,072",
+          "pnl":3758
+        }
+      ],
+      "expanded": false
+      },
+      {
+        "name": "GSA Nifty Directional",
+        "status": "Exited",
+        "rate": "-1,037",
+        "percent": "-0.10 %",
+        "data": [
+          {
+            "id": 1,
+            "name":"1.OPTI_BANKNIFTY_04MAY2023_CEA_4000",
+            "qty":"0.00",
+            "ltp":"2.30",
+            "val":"0",
+            "pnl":-2456
+          },
+          {
+            "id": 2,
+            "name":"2.OPTI_BANKNIFTY_04MAY2023_PEW_80000",
+            "qty":"0.00",
+            "ltp":"3.10",
+            "val":"360",
+            "pnl":75
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "name": "Banknifty Fighter Lite Positional",
+        "status": "Live-Entered",
+        "rate": "2,502",
+        "percent": "1.00 %",
+        "data": [
+          {
+            "id": 1,
+            "name":"1.OPTISAY_BANKNIFTY_04MAY2023_QEW_000",
+            "qty":"0.00",
+            "ltp":"2.30",
+            "val":"0",
+            "pnl":-246
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "name": "Banknift Fighter Positional",
+        "status": "Live-Entered",
+        "rate": "11,264",
+        "percent": "1.00 %",
+        "data": [
+          {
+            "id": 1,
+            "name":"1.OPTIQWE_BANKNIFTY_04MAY2023_GHT_400",
+            "qty":"0.00",
+            "ltp":"2.30",
+            "val":"0",
+            "pnl":-87
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "name": "Overnight Miner",
+        "status": "Exited",
+        "rate": "-1,037",
+        "percent": "-0.10 %",
+        "data": [
+          {
+            "id": 1,
+            "name":"1.SAWEE_BANKNIFTY_04MAY2023_GHT_400",
+            "qty":"0.00",
+            "ltp":"2.30",
+            "val":"0",
+            "pnl":3566
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "name": "Overnight Miner Nifty",
+        "status": "Exited ",
+        "rate": "-2,337",
+        "percent": "-0.10 %",
+        "data": [
+          {
+            "id": 1,
+            "name":"1.OVERNIGHT_BANKNIFTY_04MAY2023_GHT_400",
+            "qty":"0.00",
+            "ltp":"2.30",
+            "val":"0",
+            "pnl":1432
+          }
+        ],
+        "expanded": false
+      }
+    ]
+}
+  
